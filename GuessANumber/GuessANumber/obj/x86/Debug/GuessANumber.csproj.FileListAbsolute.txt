@@ -1,0 +1,8 @@
+C:\Users\Xavier\AppData\Local\Temporary Projects\GuessANumber\bin\Debug\GuessANumber.exe
+C:\Users\Xavier\AppData\Local\Temporary Projects\GuessANumber\bin\Debug\GuessANumber.pdb
+C:\Users\Xavier\AppData\Local\Temporary Projects\GuessANumber\obj\x86\Debug\GuessANumber.exe
+C:\Users\Xavier\AppData\Local\Temporary Projects\GuessANumber\obj\x86\Debug\GuessANumber.pdb
+C:\Users\Xavier\Dropbox\University\GuessANumber\GuessANumber\obj\x86\Debug\GuessANumber.exe
+C:\Users\Xavier\Dropbox\University\GuessANumber\GuessANumber\obj\x86\Debug\GuessANumber.pdb
+C:\Users\Xavier\Dropbox\University\GuessANumber\GuessANumber\bin\Debug\GuessANumber.exe
+C:\Users\Xavier\Dropbox\University\GuessANumber\GuessANumber\bin\Debug\GuessANumber.pdb
